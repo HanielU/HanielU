@@ -30,7 +30,7 @@ I'm Haniel, currently a student studying Software Engineering at Baze University
 ---
 
 <details>
-  <summary>zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HanielU&show_icons=true" />
 
@@ -41,7 +41,3 @@ I'm Haniel, currently a student studying Software Engineering at Baze University
 [instagram]: https://instagram.com/hypersonic90104
 [linkedin]: https://linkedin.com/in/haniel-ubogu-73a7a9a1
 [sveltejs]: https://svelte.dev/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
