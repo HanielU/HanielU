@@ -1,6 +1,5 @@
 ### Hey there, [Haniel][website] here! 👋
 
-
 I'm Haniel, currently a student studying Software Engineering at Baze University Abuja. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs].
 
 ### My Languages & Skills
@@ -22,7 +21,7 @@ I'm Haniel, currently a student studying Software Engineering at Baze University
 
 ---
 
-### Connect with me:
+### Get in touch with me 😉:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
