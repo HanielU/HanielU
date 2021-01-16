@@ -5,23 +5,24 @@
 
 I'm Haniel, currently a student studying Software Engineering at Baze University Abuja. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs].
 
-| My Languages & Skills
----
-| - HTML, CSS, SCSS, JS, 
-| - Svelte
-| - Python 3
-| - UI Design
+| My Languages & Skills|
+|---|
+| HTML, CSS, SCSS, JS, |
+| Svelte|
+| Python 3|
+| UI Design|
 
-
-| My Tools
 ---
-| Visual Studio Code
-| Figma
-| Notion
-| Node JS
-| Git & GitHub
-| Netlify
-| Vercel
+
+| My Tools|
+|---|
+| Visual Studio Code|
+| Figma|
+| Notion|
+| Node JS|
+| Git & GitHub|
+| Netlify|
+| Vercel|
 
 ---
 
