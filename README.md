@@ -1,28 +1,24 @@
 ### Hey there, [Haniel][website] here! 👋
 
-[![Website](https://img.shields.io/website?label=haniel.hanielU.repl.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hypersonic90104?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhypersonic90104&screen_name=hypersonic90104)
 
 I'm Haniel, currently a student studying Software Engineering at Baze University Abuja. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs].
 
-| My Languages & Skills|
-|---|
-| HTML, CSS, SCSS, JS, |
-| Svelte|
-| Python 3|
-| UI Design|
+### My Languages & Skills
+- HTML, CSS, SCSS, JS, 
+- Svelte
+- Python 3
+- UI Design
 
 ---
 
-| My Tools|
-|---|
-| Visual Studio Code|
-| Figma|
-| Notion|
-| Node JS|
-| Git & GitHub|
-| Netlify|
-| Vercel|
+### My Tools:
+- Visual Studio Code
+- Figma
+- Notion
+- Node JS
+- Git & GitHub
+- Netlify
+- Vercel
 
 ---
 
@@ -32,6 +28,7 @@ I'm Haniel, currently a student studying Software Engineering at Baze University
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -45,6 +42,7 @@ I'm Haniel, currently a student studying Software Engineering at Baze University
 </details>
 
 [website]: https://haniel.hanielu.repl.co
+[discord]: https://discord.gg/sypYDNnV
 [twitter]: https://twitter.com/hypersonic90104
 [instagram]: https://instagram.com/hypersonic90104
 [linkedin]: https://linkedin.com/in/haniel-ubogu-73a7a9a1
