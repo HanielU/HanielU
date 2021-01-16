@@ -3,16 +3,24 @@
 [![Website](https://img.shields.io/website?label=haniel.hanielU.repl.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hypersonic90104?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhypersonic90104&screen_name=hypersonic90104)
 
-I'm Haniel, currently a student studying Software Engineering at Baze University Abuja. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs]
+I'm Haniel, currently a student studying Software Engineering at Baze University Abuja. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs].
 
-### My Skills
----
-- HTML, CSS, JS
+### My Languages & Skills
+- HTML, CSS, SCSS, JS, 
 - Svelte
 - Python 3
 - UI Design
 
-### Languages and Tools:
+---
+
+### My Tools:
+- Visual Studio Code
+- Figma
+- Notion
+- Node JS
+- Git & GitHub
+- Netlify
+- Vercel
 
 ---
 
@@ -24,8 +32,6 @@ I'm Haniel, currently a student studying Software Engineering at Baze University
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-
 
 ---
 
