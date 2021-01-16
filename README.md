@@ -1,6 +1,6 @@
-### Hey there, [Haniel][website] here! <img src="https://bchiang7.github.io/img/emojis/wave.png" width="22px" style="position: relative; top: 3px; left: 2px">
+### Hey there, [Haniel][website] here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Haniel, currently a student studying Software Engineering at Baze University Abuja. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs].
+I'm currently a student studying Software Engineering @ Baze University. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs].
 
 ### My Languages & Skills
 - HTML, CSS, SCSS, JS, 
