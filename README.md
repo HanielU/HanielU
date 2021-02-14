@@ -41,7 +41,7 @@ I'm currently a student studying Software Engineering @ Baze University Abuja. I
 </details>
 
 [website]: https://haniel.hanielu.repl.co
-[discord]: https://discord.gg/sypYDNnV
+[discord]: https://discord.gg/mmRnRb8HEu
 [twitter]: https://twitter.com/hypersonic90104
 [instagram]: https://instagram.com/hypersonic90104
 [linkedin]: https://linkedin.com/in/haniel-ubogu-73a7a9a1
