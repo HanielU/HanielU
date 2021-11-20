@@ -1,23 +1,31 @@
 ### Hey there, [Haniel][website] here! <img src="https://bchiang7.github.io/img/emojis/wave.png" width="20px" style="position: relative; top: 2px;">
 
-I'm currently a student studying Software Engineering @ Baze University Abuja. I'm a Web Developer and I enjoy working with JavaScript frameworks such as [Svelte][sveltejs].
+Currently a student studying Software Engineering @ Baze University Abuja. I'm a Web Developer who enjoys working with JavaScript, especially using the [Svelte.js][sveltejs] Framework.
 
-### My Languages & Skills
-- HTML, CSS, SCSS, JS, 
-- Svelte
+## My Skills
+
+### Languages:
+- JavaScript
+- TypeScript
+- HTML
+- CSS/SCSS
 - Python 3
-- UI Design
 
----
+### Frameworks:
+- Svelte
+- Sveltekit
+- React
+- Express
 
-### My Tools:
+### Tools:
+- Bash
+- Git & Github
+- Firefox Devtools
 - Visual Studio Code
-- Figma
-- Notion
-- Node JS
-- Git & GitHub
+- Postman
 - Netlify
 - Vercel
+- Figma
 
 ---
 
