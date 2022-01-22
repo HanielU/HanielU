@@ -4,28 +4,15 @@ Currently a student studying Software Engineering @ Baze University Abuja. I'm a
 
 ## My Skills
 
-### Languages:
-- JavaScript
-- TypeScript
-- HTML
-- CSS/SCSS
-- Python 3
-
-### Frameworks:
-- Svelte
-- Sveltekit
-- React
-- Express
-
-### Tools:
-- Bash
-- Git & Github
-- Firefox Devtools
-- Visual Studio Code
-- Postman
-- Netlify
-- Vercel
-- Figma
+| Languages | Frameworks | Tools |
+| --------- | ---------- | ----- |
+| JavaScript | Svelte | VSCode |
+| TypeScript | Sveltekit | Git & Github |
+| HTML | React | Firefox Devtools |
+| CSS/SCSS | Express | Postman |
+| Python 3 |  | Vercel |
+|  |  | Netlify |
+|  |  | Figma |
 
 ---
 
