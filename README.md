@@ -1,43 +1,46 @@
-### Hey there, [Haniel][website] here! <img src="https://bchiang7.github.io/img/emojis/wave.png" width="20px" style="position: relative; top: 2px;">
+### Hey there, Haniel Here!
 
-Currently a student studying Software Engineering @ Baze University Abuja. I'm a Web Developer who enjoys working with JavaScript, especially using the [Svelte.js][sveltejs] Framework.
+I'm currently a student in Software Engineering. I'm a [builder][isfullstackreal] focused on creating user-friendly experiences  for the web. Feel free to hit me up on discord [@hypersonic.dev#6008](https://discord.com/users/521690392983371776)
 
-## My Skills
 
-| Languages | Frameworks | Tools |
-| --------- | ---------- | ----- |
-| JavaScript | Svelte | VSCode |
-| TypeScript | Sveltekit | Git & Github |
-| HTML | React | Firefox Devtools |
-| CSS/SCSS | Express | Postman |
-| Python 3 |  | Vercel |
-|  |  | Netlify |
-|  |  | Figma |
+### Languages I work with (LTR: Most Used to Least Used)
 
----
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,rust,python)
 
-### Get in touch with me 😉:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+### JS Frameworks
 
-<br />
+[<img src="https://api.iconify.design/logos:svelte-kit.svg?height=46" />][sveltekit] [<img src="https://api.iconify.design/vscode-icons:file-type-astro.svg?height=46" />][astro] [<img src="https://api.iconify.design/logos:solidjs-icon.svg?height=46" />][solid] [<img src="https://skillicons.dev/icons?i=nuxtjs" />][nuxt] [<img src="https://skillicons.dev/icons?i=vue" />][vue]
 
----
+### CSS Frameworks
 
-<details>
-  <summary>GitHub Stats</summary>
+[<img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" width="46px" />][unocss] [<img src="https://skillicons.dev/icons?i=tailwind" />][tailwind] [<img src="https://skillicons.dev/icons?i=scss" />][tailwind]
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HanielU&show_icons=true" />
+### Backend Tools
 
-</details>
+[<img src="https://pocketbase.io/images/logo.svg" />][pocketbase] [<img src="https://skillicons.dev/icons?i=prisma" />][prisma] [<img src="https://skillicons.dev/icons?i=supabase" />][supabase]
 
-[website]: https://haniel.hanielu.repl.co
-[discord]: https://discord.gg/mmRnRb8HEu
-[twitter]: https://twitter.com/hypersonic90104
-[instagram]: https://instagram.com/hypersonic90104_
-[linkedin]: https://linkedin.com/in/haniel-ubogu-73a7a9a1
-[sveltejs]: https://svelte.dev/
+### Desktop Frameworks
+
+[<img src="https://skillicons.dev/icons?i=tauri" />][tauri]
+
+### Mobile Frameworks
+
+[<img src="https://api.iconify.design/logos:capacitorjs-icon.svg?height=46" />][capacitorjs]
+
+
+
+[isfullstackreal]: https://www.youtube.com/watch?v=rAjd8z-Fx5A&ab_channel=Theo-ping%E2%80%A4gg
+[sveltekit]: https://kit.svelte.dev
+[astro]: https://astro.build
+[solid]: https://solidjs.com
+[vue]: https://vuejs.org
+[nuxt]: https://nuxt.com
+[unocss]: https://github.com/unocss/unocss
+[tailwind]: https://tailwindcss.com
+[scss]: https://sass-lang.com
+[pocketbase]: https://pocketbase.io
+[prisma]: https://prisma.io
+[supabase]: https://supabase.com
+[tauri]: https://tauri.dev
+[capacitorjs]: https://capacitorjs.com
