@@ -1,6 +1,6 @@
-### Hey there, Haniel Here!
+## Hey there, Haniel Here!
 
-I'm currently a student in Software Engineering. I'm a [builder][isfullstackreal] focused on creating user-friendly experiences  for the web. Feel free to hit me up on discord [@hypersonic.dev#6008](https://discord.com/users/521690392983371776)
+I'm currently a student in Software Engineering, a [builder][isfullstackreal] focused on creating user-friendly experiences  for the web. Feel free to hit me up on discord [@hypersonic.dev#6008](https://discord.com/users/521690392983371776)
 
 
 ### Languages I work with (LTR: Most Used to Least Used)
