@@ -18,7 +18,7 @@ I'm currently a student in Software Engineering, a [builder][isfullstackreal] fo
 
 ### Backend Tools
 
-[<img src="https://pocketbase.io/images/logo.svg" />][pocketbase] [<img src="https://skillicons.dev/icons?i=prisma" />][prisma] [<img src="https://skillicons.dev/icons?i=supabase" />][supabase]
+[<img src="https://api.iconify.design/logos:payload.svg?height=46" style="opacity: 0.8" />][payload] [<img src="https://pocketbase.io/images/logo.svg" />][pocketbase] [<img src="https://skillicons.dev/icons?i=prisma" />][prisma] [<img src="https://skillicons.dev/icons?i=supabase" />][supabase]
 
 ### Desktop Frameworks
 
@@ -44,3 +44,4 @@ I'm currently a student in Software Engineering, a [builder][isfullstackreal] fo
 [supabase]: https://supabase.com
 [tauri]: https://tauri.dev
 [capacitorjs]: https://capacitorjs.com
+[payload]: https://payloadcms.com
