@@ -10,7 +10,7 @@ I'm a Software Engineer and a [builder][isfullstackreal] focused on creating use
 
 ### JS Frameworks
 
-[<img src="https://api.iconify.design/logos:svelte-kit.svg?height=46" />][sveltekit] [<img src="https://api.iconify.design/vscode-icons:file-type-astro.svg?height=46" />][astro] [<img src="https://api.iconify.design/logos:solidjs-icon.svg?height=46" />][solid] [<img src="https://skillicons.dev/icons?i=nuxtjs" />][nuxt] [<img src="https://skillicons.dev/icons?i=vue" />][vue]
+[<img src="https://api.iconify.design/logos:svelte-kit.svg?height=46" />][sveltekit] [<img src="https://api.iconify.design/vscode-icons:file-type-astro.svg?height=46" />][astro] [<img src="https://skillicons.dev/icons?i=solidjs" />][solid] [<img src="https://skillicons.dev/icons?i=nuxtjs" />][nuxt] [<img src="https://skillicons.dev/icons?i=vue" />][vue] [<img src="https://skillicons.dev/icons?i=nextjs" />][nextjs] [<img src="https://skillicons.dev/icons?i=react" />][react]
 
 ### CSS Frameworks
 
@@ -36,6 +36,8 @@ I'm a Software Engineer and a [builder][isfullstackreal] focused on creating use
 [solid]: https://solidjs.com
 [vue]: https://vuejs.org
 [nuxt]: https://nuxt.com
+[react]: https://react.dev
+[nextjs]: https://nextjs.org
 [unocss]: https://github.com/unocss/unocss
 [tailwind]: https://tailwindcss.com
 [scss]: https://sass-lang.com
